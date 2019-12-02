@@ -1,9 +1,9 @@
-package com.gmall.demo;
+package com.gmall.user;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class GmallUserApplicationTests {
 
     // @Test
     void contextLoads() {

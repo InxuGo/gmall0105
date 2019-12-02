@@ -1,6 +1,6 @@
-package com.gmall.user.mapper;
+package com.atguigu.gmall.mapper;
 
-import com.gmall.user.entity.UmsMemberReceiveAddress;
+import com.atguigu.gmall.bean.UmsMemberReceiveAddress;
 import tk.mybatis.mapper.common.Mapper;
 
 /**

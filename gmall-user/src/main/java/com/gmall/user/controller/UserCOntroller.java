@@ -1,7 +1,7 @@
 package com.gmall.user.controller;
 
-import com.gmall.user.entity.UmsMember;
-import com.gmall.user.entity.UmsMemberReceiveAddress;
+import com.atguigu.gmall.bean.UmsMember;
+import com.atguigu.gmall.bean.UmsMemberReceiveAddress;
 import com.gmall.user.service.UserServiceIfc;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
